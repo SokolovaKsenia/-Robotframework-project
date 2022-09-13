@@ -4,7 +4,7 @@ Documentation    Suite description
 
 
 *** Variables ***
-${LOGIN URL}  https://scouts-test.futbolkolektyw.pl/en
+${LOGIN URL}  https://scouts.futbolkolektyw.pl/en/
 ${BROWSER}  Chrome
 ${SIGNINBUTTON}  xpath=//*[text()= 'Sign in']
 ${EMAILINPUT}  xpath=//*[@id='login']
